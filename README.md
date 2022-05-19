@@ -1,4 +1,4 @@
-Scrapper for free rooms available to rent
+otodom.pl scrapper for free rooms available to rent
 
 
 - Python
